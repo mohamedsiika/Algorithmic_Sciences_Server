@@ -1,0 +1,2 @@
+linuxpath=root/200k.txt
+REREAD_ON_QUERY=0
